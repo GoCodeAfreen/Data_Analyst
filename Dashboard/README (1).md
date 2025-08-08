@@ -6,7 +6,7 @@
 **Data-Driven Insights for Strategic Decision Making**
 
 ## 👤 Submitted by
-**Madiha Yahiya**
+**Afreen Sultana**
 
 ## 📝 Internship Task
 **Task 3: Dashboard Design**  
